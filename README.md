@@ -73,11 +73,11 @@ It can serve as:
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="1280" height="709" alt="Hero Section" src="<img width="1889" height="955" alt="img1" src="https://github.com/user-attachments/assets/76ef03c3-220b-4387-bcce-b1e8f2f1ab9e" />
+  <img width="1280" height="709" alt="Hero Section" src="https://github.com/user-attachments/assets/76ef03c3-220b-4387-bcce-b1e8f2f1ab9e" />
   <br><br>
-  <img width="1280" height="759" alt="Collection Section" src="<img width="1899" height="946" alt="img2" src="https://github.com/user-attachments/assets/ffa781df-a838-4afc-952e-5367da554fe9" />
+  <img width="1280" height="759" alt="Collection Section" src="https://github.com/user-attachments/assets/ffa781df-a838-4afc-952e-5367da554fe9" />
   <br><br>
-  <img width="1280" height="641" alt="Features Section" src="<img width="1909" height="937" alt="img3" src="https://github.com/user-attachments/assets/604fa0cd-858c-4603-bb9a-1d69a417b0f9" />
+  <img width="1280" height="641" alt="Features Section" src="https://github.com/user-attachments/assets/604fa0cd-858c-4603-bb9a-1d69a417b0f9" />
 </p>
 
 ---
