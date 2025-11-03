@@ -73,7 +73,7 @@ It can serve as:
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="1280" height="709" alt="Hero Section" src="https://github.com/user-attachments/assets/your-hero-image" />
+  <img width="1280" height="709" alt="Hero Section" src="C:\Users\palak\OneDrive\Pictures\Screenshots\img1.png" />
   <br><br>
   <img width="1280" height="759" alt="Collection Section" src="https://github.com/user-attachments/assets/your-collection-image" />
   <br><br>
