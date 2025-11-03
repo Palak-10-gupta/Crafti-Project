@@ -1,86 +1,95 @@
-#🧵 Crafti – Handmade Product Agency Website
+# 🧵 Crafti-project
+## 📌 Project Description – Crafti: Handmade Product Agency Website  
 
-Crafti is a modern, fully responsive agency website built using HTML, CSS, and JavaScript.
-It is designed to represent a handmade product business or creative craft agency, showcasing its collections, features, and blog section with a clean, aesthetic layout.
+Crafti is a **modern, responsive, and elegant agency website** built using **HTML, CSS, and JavaScript**.  
+The project is designed to represent a **handmade product or craft-based business**, showcasing collections, design philosophy, and creative blogs in a professional layout.  
 
-<p align="center"> <img src=desktop.png" alt="Crafti Homepage" width="1280" height="653" /> </p>
-🚀 Features
+<p align="center">
+  <img src="https://github.com/Palak-10-gupta/Crafti-Project/blob/main/desktop.png" alt="homepage" width="1280" height="653" />
+</p>
 
-Responsive Layout – Adjusts seamlessly across desktop, tablet, and mobile screens.
+---
 
-Mobile Navigation Toggle – JavaScript-enabled hamburger menu for smaller screens.
+## 🚀 Features  
 
-Hero Section – Highlights brand identity with a bold tagline and visuals.
+- **Responsive Layout** – The website adapts perfectly to desktop, tablet, and mobile devices using grid and media queries.  
+- **Navigation Bar with Toggle** – A collapsible navigation menu for smaller screens, powered by JavaScript.  
+- **Hero Section with CTA** – Highlights the agency’s creative tagline and encourages users to explore the collection.  
+- **About Section** – Describes the craftsmanship journey and showcases the brand’s experience.  
+- **Collection Section** – Displays categories like Pottery, Leather Craft, and Home Décor with visuals and descriptions.  
+- **Feature Section** – Highlights the company’s strengths such as Guarantee, Professional Staff, and Affordable Price.  
+- **Testimonials Section** – Displays customer feedback and builds trust.  
+- **Gallery Section** – Interactive showcase of craft categories with hover effects and animations.  
+- **Blog Section** – Highlights articles about handmade crafts, techniques, and creativity tips.  
+- **Footer Section** – Includes social media links, navigation shortcuts, and contact information.  
 
-About Section – Describes craftsmanship, story, and experience of the agency.
+---
 
-Collection Section – Displays categories like Pottery, Leather Craft, and Home Décor in a grid layout.
+## 🎨 Design & Styling  
 
-Feature Section – Showcases agency highlights (Guarantee, Staff, Price) with a video banner.
+- Designed using **CSS variables** for consistent color, typography, and spacing.  
+- **Warm color palette** and **elegant design theme** reflecting handcrafted artistry.  
+- **Smooth animations, gradients, and transitions** for engaging interactions.  
+- **Grid-based structure** for neat visual alignment across all screen sizes.  
 
-Testimonials Section – Client review highlighting credibility.
+---
 
-Gallery Section – Interactive display of craft categories using background images and hover effects.
+## ⚡ Functionality (JavaScript)  
 
-Blog Section – Displays the latest updates, techniques, and inspiration posts.
+- **Mobile Navbar Toggle:** Opens and closes on user interaction.  
+- **Overlay Effect:** Darkens background when menu is active.  
+- **Sticky Header:** Activates after scrolling beyond 100px.  
+- **Reusable Event Handler:** Custom function `addEventOnElements()` for handling multiple events efficiently.  
 
-Footer Section – Includes contact links, social media, and navigation shortcuts.
+---
 
-##🎨 Design & Styling
+## 🛠️ Tech Stack  
 
-Built using CSS custom properties (variables) for a unified theme.
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)  
+- **Icons:** Ionicons Library  
+- **Fonts:** Google Fonts (Poppins, Rosario)  
 
-Minimalist color palette – blends warm tones with dark accents for an elegant craft feel.
+---
 
-Hover transitions, gradients, and animations add life to each element.
+## 📂 Project Structure  
 
-Fluid grid layouts ensure content looks balanced on all screen sizes.
+- `index.html` → Defines the main layout and content structure.  
+- `style.css` → Handles theme, color palette, responsiveness, and animations.  
+- `script.js` → Implements navbar toggle, scroll effects, and interactivity.  
+- `images/` → Contains all the image assets used across the website.  
 
-##⚡ Functionality (JavaScript)
+---
 
-Dynamic Navbar: Opens and closes on toggle click for responsive experience.
+## 🎯 Purpose  
 
-Overlay Activation: Dims background when menu is active.
+This project demonstrates **frontend web development and responsive design skills** through a visually rich craft agency theme.  
+It can serve as:  
+- A **portfolio project** showcasing HTML, CSS, and JavaScript proficiency.  
+- A **website template** for small businesses, creative studios, or handmade product agencies.  
+- A **practice project** for building clean and functional UIs.  
 
-Sticky Header: Becomes fixed after scrolling down 100px.
+---
 
-Utility Function: addEventOnElements() allows event binding to multiple elements efficiently.
+## 📸 Screenshots
 
-##🛠️ Tech Stack
+<p align="center">
+  <img width="1280" height="709" alt="Hero Section" src="https://github.com/user-attachments/assets/your-hero-image" />
+  <br><br>
+  <img width="1280" height="759" alt="Collection Section" src="https://github.com/user-attachments/assets/your-collection-image" />
+  <br><br>
+  <img width="1280" height="641" alt="Features Section" src="https://github.com/user-attachments/assets/your-feature-image" />
+  <br><br>
+  <img width="1280" height="718" alt="Blog Section" src="https://github.com/user-attachments/assets/your-blog-image" />
+</p>
 
-Frontend: HTML5, CSS3, JavaScript (Vanilla)
+---
 
-Icons: Ionicons Library
+## 👨‍💻 Author  
+**Palak Gupta**  
+💼 GitHub: [@Palak-10-gupta](https://github.com/Palak-10-gupta)
 
-Fonts: Google Fonts (Poppins, Rosario)
+---
 
-##📂 Project Structure
+⭐ If you like this project, don’t forget to give it a **star** on GitHub! ⭐
 
-index.html → Core layout and semantic structure of the website.
 
-style.css → Handles theme, layout, colors, and responsiveness.
-
-script.js → JavaScript for navbar toggle, overlay, and scroll effects.
-
-images/ → Contains hero banners, collections, and gallery visuals.
-
-##🎯 Purpose
-
-This project demonstrates frontend design and interactivity using only HTML, CSS, and JS, making it ideal for:
-
-A portfolio showcase for web developers and designers.
-
-A template for creative agencies or handmade product businesses.
-
-A practice project for responsive design and UI animations.
-
-##📸 Screenshots
-
-<p align="center"> <img width="1280" height="709" alt="Hero Section" src="https://github.com/user-attachments/assets/your-hero-img" /> <br><br> <img width="1280" height="759" alt="Collection Section" src="https://github.com/user-attachments/assets/your-collection-img" /> <br><br> <img width="1280" height="641" alt="Features Section" src="https://github.com/user-attachments/assets/your-feature-img" /> <br><br> <img width="1280" height="718" alt="Blog Section" src="https://github.com/user-attachments/assets/your-blog-img" /> </p>
-
-👩‍💻 Author
-
-Palak Gupta
-💼 GitHub: @Palak-10-gupta
-
-⭐ If you liked this project, don’t forget to star it on GitHub! ⭐
